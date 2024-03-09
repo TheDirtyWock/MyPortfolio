@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shawn Lanford - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+
+        h1, h2, h3 {
+            color: #333;
+        }
+
+        p {
+            color: #9a9292;
+            font-size: 15px;
+        }
+
+        footer {
+            background-color: #333;
+            height: 5px;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Shawn Lanford</h1>
+        <p style="font-size:xx-large;"> Future Web Developer</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my portfolio! I am a passionate web developer with a focus on front-end technologies at the moment. I enjoy creating interactive and user-friendly websites that provide a great user experience. I haven't been doing this for long so there is still a lot to learn for me. I am self-taught and moitvated to get into the tech industry.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div>
+            <h3>Project 1</h3>
+            <p>The first project I am going to put on my portfolio was done in javascript. This project is a simple snake game.</p>
+            <a href="file:///C:/Users/goty4/OneDrive/Desktop/javascript/index.html">View Project</a>
+    
+        </div>
+        <div>
+            <h3>Project 2</h3>
+            <p>This project isnt't too special but it was one of my first. This project changes colors when you click the "repaint" button.</p>
+            <a href="C:\Users\goty4\OneDrive\Desktop\coursera\index.html">View Project</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to contact me at: <a href="mailto:goty421@gmail.com">Contact me via email</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Shawn Lanford. All rights reserved.</p>
+    </footer>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
